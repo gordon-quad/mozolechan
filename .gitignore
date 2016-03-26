@@ -1,5 +1,7 @@
 # Compiled
 *.elc
+*.pyc
 
 # Packaging
 .cask
+*.egg
